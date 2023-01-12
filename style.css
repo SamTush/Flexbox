@@ -24,6 +24,7 @@
 
 /* write out flexbox here. The above is just page set up */
 .container{
-    
+    display: flex;
+    border: 10px solid goldenrod;
 }
 
